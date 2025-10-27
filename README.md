@@ -1,4 +1,4 @@
-# Business-Name-Generator
+<img width="946" height="316" alt="image" src="https://github.com/user-attachments/assets/cbe36a31-8da2-44f6-aea4-fd07b78dace9" /># Business-Name-Generator
 An exciting and fun web-based game that generates creative, random business names at the click of a button! Built using HTML, CSS, and JavaScript, this project is a lighthearted “timepass” tool designed to spark your creativity or just make you laugh with quirky, unexpected name combinations.
 
 
@@ -40,3 +40,8 @@ HTML5 — Page structure
 CSS3 — Styling and layout
 
 JavaScript (ES6) — Logic for name generation and interactivity
+
+
+
+
+
