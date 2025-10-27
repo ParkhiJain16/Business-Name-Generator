@@ -19,6 +19,20 @@ Features:-
 
 😄 Fun Element: Meant to be a casual, creativity-sparking game.
 
+How It Works:-
+
+The generator picks one random word from each of three lists:
+
+Adjective list (10 words)
+
+Noun list (10 words)
+
+Ending list (10 words)
+
+Each click produces:
+
+10 × 10 × 10 = 1000 possible unique combinations
+
 Tech Stack:-
 
 HTML5 — Page structure
